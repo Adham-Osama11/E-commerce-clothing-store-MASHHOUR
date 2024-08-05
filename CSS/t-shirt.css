@@ -8,3 +8,20 @@
     padding: 0px;
     color: #000000;
 }
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #F2F2F2; /* Match the background color */
+}
+@media (max-width: 408px) {
+    /* Adjust styles for smaller screens */
+    .text-container h2 {
+        font-size: 24px;
+    }
+    /* Other adjustments as needed */
+    /* .container-footer{
+        height:600px
+    } */
+}
