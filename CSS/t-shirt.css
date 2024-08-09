@@ -25,11 +25,11 @@
     border-radius: 10px;
   }
   .product-image {
-    max-width: 100%;
+    max-width: 40vh;
     height: auto;
   }
   .thumbnail {
-    max-width: 100px;
+    max-width: 14vh;
     height: auto;
     margin: 5px;
     cursor: pointer;
